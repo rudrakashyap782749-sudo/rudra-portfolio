@@ -21,4 +21,23 @@ button {
   border: none;
   border-radius: 8px;
   font-size: 16px;
+}body {
+  background: #eef1f5;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #0b1bb5;
+  font-size: 42px;
+}
+
+button {
+  background: #0b1bb5;
+  color: white;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 12px;
+  font-size: 20px;
 }
