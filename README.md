@@ -1,2 +1,0 @@
-# rudra-portfolio
-public
